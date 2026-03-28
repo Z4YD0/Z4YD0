@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">I'm **Zayd**, an engineering student and self-learner.<br><br>I enjoy building and learning new things, especially in web development and programming.<br><br>I'm starting to share my projects here instead of letting them sit unused on my computer.</p>
+<p align="left">
+I'm <strong>Zayd</strong>, an engineering student and self-learner.<br><br>
+I enjoy building and learning new things, especially in web development and programming.<br><br>
+I'm starting to share my projects here instead of letting them sit unused on my computer.
+</p>
 
 ###
 
