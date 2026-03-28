@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**Z4YD0/Z4YD0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Zayd**, an engineering student and self-learner.
 
-Here are some ideas to get you started:
+I enjoy building and learning new things, especially in web development and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm starting to share my projects here instead of letting them sit unused on my computer.
+
+### 💻 Skills
+- HTML
+- CSS
+- C
+- Git & GitHub
+
+### 📚 Currently Learning
+- JavaScript
+- C++
+- React
+- Angular
