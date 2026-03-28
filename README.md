@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">
-I'm <strong>Zayd</strong>, an engineering student and self-learner.<br><br>
-I enjoy building and learning new things, especially in web development and programming.<br><br>
-I'm starting to share my projects here instead of letting them sit unused on my computer.
-</p>
+<p align="left">I'm <strong>Zayd</strong>, an engineering student and self-learner.<br><br>I enjoy building and learning new things, especially in web development and programming.<br><br>I'm starting to share my projects here instead of letting them sit unused on my computer.</p>
 
 ###
 
@@ -44,11 +40,7 @@ I'm starting to share my projects here instead of letting them sit unused on my 
 
 ###
 
-<h2 align="left">📬 Contact Me</h2>
-
-###
-
-<div align="left">
+<div align="right">
   <a href="https://www.instagram.com/zyd.yaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
